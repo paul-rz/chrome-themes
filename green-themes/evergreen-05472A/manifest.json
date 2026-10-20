@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Evergreen #05472A",
+  "version": "1.0",
+  "description": "Solid evergreen (#05472A) theme for Chrome and Brave.",
+  "theme": {
+    "colors": {
+      "frame": [4, 57, 34],
+      "frame_inactive": [3, 46, 27],
+      "frame_incognito": [3, 40, 24],
+      "frame_incognito_inactive": [2, 32, 19],
+      "toolbar": [5, 71, 42],
+      "toolbar_text": [255, 255, 255],
+      "toolbar_button_icon": [255, 255, 255],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [200, 230, 215],
+      "tab_background_text_inactive": [170, 200, 185],
+      "bookmark_text": [255, 255, 255],
+      "omnibox_background": [4, 50, 29],
+      "omnibox_text": [255, 255, 255],
+      "ntp_background": [5, 71, 42],
+      "ntp_text": [255, 255, 255],
+      "ntp_link": [200, 255, 225],
+      "button_background": [5, 71, 42]
+    },
+    "tints": {
+      "buttons": [-1, -1, 1]
+    },
+    "properties": {
+      "ntp_background_alignment": "center"
+    }
+  }
+}

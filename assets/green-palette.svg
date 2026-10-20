@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="240" height="200" fill="#006400"/>
+  <rect x="240" y="0" width="240" height="200" fill="#014421"/>
+  <rect x="480" y="0" width="240" height="200" fill="#05472A"/>
+  <g fill="#FFFFFF" text-anchor="middle">
+    <text x="120" y="96" font-size="22" font-weight="600">Dark Green</text>
+    <text x="120" y="128" font-size="18" opacity="0.85">#006400</text>
+    <text x="360" y="96" font-size="22" font-weight="600">Forest Green</text>
+    <text x="360" y="128" font-size="18" opacity="0.85">#014421</text>
+    <text x="600" y="96" font-size="22" font-weight="600">Evergreen</text>
+    <text x="600" y="128" font-size="18" opacity="0.85">#05472A</text>
+  </g>
+</svg>

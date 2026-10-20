@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Forest Green #014421",
+  "version": "1.0",
+  "description": "Solid forest green (#014421) theme for Chrome and Brave.",
+  "theme": {
+    "colors": {
+      "frame": [1, 54, 26],
+      "frame_inactive": [1, 44, 21],
+      "frame_incognito": [0, 38, 18],
+      "frame_incognito_inactive": [0, 30, 14],
+      "toolbar": [1, 68, 33],
+      "toolbar_text": [255, 255, 255],
+      "toolbar_button_icon": [255, 255, 255],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [200, 230, 210],
+      "tab_background_text_inactive": [170, 200, 180],
+      "bookmark_text": [255, 255, 255],
+      "omnibox_background": [1, 48, 23],
+      "omnibox_text": [255, 255, 255],
+      "ntp_background": [1, 68, 33],
+      "ntp_text": [255, 255, 255],
+      "ntp_link": [200, 255, 220],
+      "button_background": [1, 68, 33]
+    },
+    "tints": {
+      "buttons": [-1, -1, 1]
+    },
+    "properties": {
+      "ntp_background_alignment": "center"
+    }
+  }
+}
