@@ -4,7 +4,11 @@ Solid-color browser themes for Chrome and other Chromium browsers (Brave, Edge, 
 
 ## Green Themes
 
-![Green palette](assets/green-palette.svg)
+<table><tr>
+  <td align="center"><img src="assets/block-006400.svg" width="220" alt="#006400"><br><b>Dark Green</b><br><code>#006400</code></td>
+  <td align="center"><img src="assets/block-014421.svg" width="220" alt="#014421"><br><b>Forest Green</b><br><code>#014421</code></td>
+  <td align="center"><img src="assets/block-05472A.svg" width="220" alt="#05472A"><br><b>Evergreen</b><br><code>#05472A</code></td>
+</tr></table>
 
 | | Theme | Hex | RGB | Folder |
 |---|---|---|---|---|
